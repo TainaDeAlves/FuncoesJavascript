@@ -1,0 +1,22 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h2 {
+    
+    text-align: center;
+
+}
+
+.descricao{
+
+    margin: 15px 0px;
+}
+.observacao{
+    margin: 35px 5px;
+}
+.observacao li{
+    padding: 5px 15px;
+}
